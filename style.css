@@ -1,0 +1,96 @@
+body {
+  margin: 0px;
+    display: center;
+    position:center ;
+    font-size: 10pt;
+    text-align: center;
+    align-items:center ;
+    justify-content:center;
+    text-outline:white ;
+}
+main{
+  align-items:center;
+  position:center;
+  justify-content: center;
+}
+form{
+  direction:center;
+  position:center ;
+}
+.img{
+  align-self: center;
+}
+p{
+  color:black;
+}
+input{
+  background-color:white;
+  color:#C1C1C1;
+  border-radius:5px;
+  border: solid;
+  height: 35px;
+  width: 230px;
+}
+#submit{
+ background :#2B75FF;
+}
+button{
+  background:#2B75FF;
+  color:white;
+  -webkit-tap-highlight-color:white ;
+  border: none;
+  border-radius:5px;
+  height: 35px;
+  width: 230px;
+  text-outline: 0 0 #FFFFFF;
+  text-wrap: 3px;
+}
+a{
+  color:#2B75FF;
+  background:white;
+  text-decoration-line:none;
+  font-size:0.8rem;
+  font-weight: bold;
+}
+
+
+hr{
+  background:#C1C1C1;
+}
+.yo-btn{
+  background: #FFFFFF;
+  color:#2B75FF;
+  border: 1px solid #2B75FF;
+  text-align: center;
+ font:solid;
+}
+.navbar{
+  color:#7DABFF;
+  background:#2B75FF;
+  height:50px;
+}
+.mado{
+  width:280px;
+}
+
+.shet{
+  color:white;
+  background: green;
+  height:10px;
+  border:none;
+  border-radius:3px;
+  font-size:0.7rem;
+  position: absolute;
+}
+
+.dark{
+  color: #000;
+  font-weight:0.7rem;
+}
+.baba{
+  height: 25px;
+  width: 60px;
+  color: #C1C1C1;
+  position:absolute;
+  display:inline-flex;
+}
